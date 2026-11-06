@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Grande Fratello VIP",GF VIP - Regia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Grande Fratello VIP",GF VIP - Regia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Grande Fratello VIP",GF VIP - Un'ora fa
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
