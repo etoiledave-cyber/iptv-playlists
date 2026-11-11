@@ -215,7 +215,7 @@ https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
 #EXTINF:-1 group-title="FILM",La7 Cinema
 http://102.129.186.182:81/la7d/index.m3u8
 #EXTINF:-1 group-title="NOTIZIE",Rai News 24
-https://jmp2.uk/stvp-IT3200004WU
+https://rainews1-dash-live.akamaized.net/dash/live/663981/rainews1/manifest.mpd
 #EXTINF:-1 group-title="NOTIZIE",TgCom 24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 group-title="NOTIZIE",3CatInfo (1080p)
@@ -224,8 +224,8 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:-1 group-title="NOTIZIE",CNN Headlines International
 https://jmp2.uk/stvp-GBBD1900008O3
-#EXTINF:-1 group-title="NOTIZIE",Sky News International
-https://jmp2.uk/stvp-IT3400003D6
+#EXTINF:-1 group-title="NOTIZIE",Sky TG 24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 group-title="NOTIZIE",Tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 group-title="NOTIZIE",n-tv
